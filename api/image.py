@@ -1,4 +1,3 @@
-
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
 import httpx, base64, httpagentparser
